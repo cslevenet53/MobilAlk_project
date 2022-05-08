@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Projekt_Hajo</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="username">Felhasználó</string>
+    <string name="email">Email cím</string>
+    <string name="jelsz">Jelszó</string>
+    <string name="passwordagain">Jelszó újból</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="product_description">Termék leírása.</string>
+    <string name="in">Belépés</string>
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+
+    <string-array name="shopping_item_names">
+        <item>5 napos mediterrán hajóút az MSC Musica fedélzetén, Santorini - Haifa</item>
+        <item>8 NAPOS MEDITERRÁN HAJÓÚT AZ MSC SEAVIEW FEDÉLZETÉN, MESSINA - MARSEILLE</item>
+        <item>11 NAPOS MEDITERRÁN HAJÓÚT AZ MSC ORCHESTRA FEDÉLZETÉN, MARSEILLE - OLBIA</item>
+        <item>4 napos perzsa-öböli hajóút az MSC Bellissima fedélzetén, Dubai - Abu Dhabi</item>
+        <item>3 napos mediterrán hajóút az MSC Musica fedélzetén, Santorini - Kusadasi</item>
+        <item>4 napos mediterrán hajóút az MSC Musica fedélzetén, Haifa - Mykonos</item>
+        <item>5 napos mediterrán hajóút az MSC Musica fedélzetén, Santorini - Haifa</item>
+        <item>4 napos perzsa-öböli hajóút az fedélzetén, Dubai - Sir Bani Yas</item>
+        <item>4 napos dél-amerikai hajóút az MSC Armonia fedélzetén, Rio de Janeiro - Itajai</item>
+        <item>5 napos dél-amerikai hajóút az MSC Fantasia fedélzetén, Santos - Ilhabela</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Útvonal
+Santos, Brazil - Buzios, Brazil - Ilhabela, Brazil - Santos, Brazil Hajó leírás
+        "A STÍLUSOS MSC FANTASIA --- Az MSC Fantasia ötvözi a mediterrán hangulat melegségét és kényelmét.A hajó szívében talál egy valódi köves átriumot egy kávézó-bárral, amely frissen sült süteményeket és autentikus fagyikat is kínál.</item>
+        <item>Útvonal
+Santos, Brazil - Buzios, Brazil - Ilhabela, Brazil - Santos, Brazil Hajó leírás
+        "A STÍLUSOS MSC FANTASIA --- Az MSC Fantasia ötvözi a mediterrán hangulat melegségét és kényelmét.A hajó szívében talál egy valódi köves átriumot egy kávézó-bárral, amely frissen sült süteményeket és autentikus fagyikat is kínál.</item>
+        <item>Útvonal
+Santos, Brazil - Buzios, Brazil - Ilhabela, Brazil - Santos, Brazil Hajó leírás
+        "A STÍLUSOS MSC FANTASIA --- Az MSC Fantasia ötvözi a mediterrán hangulat melegségét és kényelmét.A hajó szívében talál egy valódi köves átriumot egy kávézó-bárral, amely frissen sült süteményeket és autentikus fagyikat is kínál.</item>
+        <item>Útvonal
+Santos, Brazil - Buzios, Brazil - Ilhabela, Brazil - Santos, Brazil Hajó leírás
+        "A STÍLUSOS MSC FANTASIA --- Az MSC Fantasia ötvözi a mediterrán hangulat melegségét és kényelmét.A hajó szívében talál egy valódi köves átriumot egy kávézó-bárral, amely frissen sült süteményeket és autentikus fagyikat is kínál.</item>
+        <item>Útvonal
+Santos, Brazil - Buzios, Brazil - Ilhabela, Brazil - Santos, Brazil Hajó leírás
+        "A STÍLUSOS MSC FANTASIA --- Az MSC Fantasia ötvözi a mediterrán hangulat melegségét és kényelmét.A hajó szívében talál egy valódi köves átriumot egy kávézó-bárral, amely frissen sült süteményeket és autentikus fagyikat is kínál.</item>
+        <item>Útvonal
+Santos, Brazil - Buzios, Brazil - Ilhabela, Brazil - Santos, Brazil Hajó leírás
+        "A STÍLUSOS MSC FANTASIA --- Az MSC Fantasia ötvözi a mediterrán hangulat melegségét és kényelmét.A hajó szívében talál egy valódi köves átriumot egy kávézó-bárral, amely frissen sült süteményeket és autentikus fagyikat is kínál.</item>
+        <item>Útvonal
+Santos, Brazil - Buzios, Brazil - Ilhabela, Brazil - Santos, Brazil Hajó leírás
+        "A STÍLUSOS MSC FANTASIA --- Az MSC Fantasia ötvözi a mediterrán hangulat melegségét és kényelmét.A hajó szívében talál egy valódi köves átriumot egy kávézó-bárral, amely frissen sült süteményeket és autentikus fagyikat is kínál.</item>
+        <item>Útvonal
+Santos, Brazil - Buzios, Brazil - Ilhabela, Brazil - Santos, Brazil Hajó leírás
+        "A STÍLUSOS MSC FANTASIA --- Az MSC Fantasia ötvözi a mediterrán hangulat melegségét és kényelmét.A hajó szívében talál egy valódi köves átriumot egy kávézó-bárral, amely frissen sült süteményeket és autentikus fagyikat is kínál.</item>
+        <item>Útvonal
+Santos, Brazil - Buzios, Brazil - Ilhabela, Brazil - Santos, Brazil Hajó leírás
+        "A STÍLUSOS MSC FANTASIA --- Az MSC Fantasia ötvözi a mediterrán hangulat melegségét és kényelmét.A hajó szívében talál egy valódi köves átriumot egy kávézó-bárral, amely frissen sült süteményeket és autentikus fagyikat is kínál.</item>
+        <item>Útvonal
+Santos, Brazil - Buzios, Brazil - Ilhabela, Brazil - Santos, Brazil Hajó leírás
+        "A STÍLUSOS MSC FANTASIA --- Az MSC Fantasia ötvözi a mediterrán hangulat melegségét és kényelmét.A hajó szívében talál egy valódi köves átriumot egy kávézó-bárral, amely frissen sült süteményeket és autentikus fagyikat is kínál.</item>
+
+    </string-array>
+
+    <array name="shopping_item_price">
+        <item>100000 Ft</item>
+        <item>150000 Ft</item>
+        <item>50000 Ft</item>
+        <item>30000 Ft</item>
+        <item>18000 Ft</item>
+        <item>70000 Ft</item>
+        <item>20000 Ft</item>
+        <item>30000 Ft</item>
+        <item>15000 Ft</item>
+        <item>90000 Ft</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/hajokep</item>
+        <item>@drawable/hajokep</item>
+        <item>@drawable/hajokep</item>
+        <item>@drawable/hajokep</item>
+        <item>@drawable/hajokep</item>
+        <item>@drawable/hajokep</item>
+        <item>@drawable/hajokep</item>
+        <item>@drawable/hajokep</item>
+        <item>@drawable/hajokep</item>
+        <item>@drawable/hajokep</item>
+    </array>
+</resources>

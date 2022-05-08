@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "854345131661",
+    "project_id": "mobilalkprojekt",
+    "storage_bucket": "mobilalkprojekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854345131661:android:935da567789457da4964c4",
+        "android_client_info": {
+          "package_name": "com.example.projekt_hajo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854345131661-6t67255ns7lkb2gfgev8833f70pepvn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projekt_hajo",
+            "certificate_hash": "2cd59714467eb0b7664644e89b96d30052b09a18"
+          }
+        },
+        {
+          "client_id": "854345131661-4jmn5566qbi0a55jq9p1h4hpu11d6vrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXuqqYE5-yEREl_TN36XvSZar0H4rIjvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854345131661-4jmn5566qbi0a55jq9p1h4hpu11d6vrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
